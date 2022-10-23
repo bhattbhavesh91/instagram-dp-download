@@ -14,6 +14,10 @@ TAIL = "/?__a=1"
 URL = INSTA_URL + USER_ID + TAIL
 URL = INSTA_URL + USER_ID + TAIL
 URL = INSTA_URL + USER_ID + TAIL
+URL = INSTA_URL + USER_ID + TAIL
+URL = INSTA_URL + USER_ID + TAIL
+URL = INSTA_URL + USER_ID + TAIL
+URL = INSTA_URL + USER_ID + TAIL
 
 response = requests.get(URL, headers=header).json()
 
